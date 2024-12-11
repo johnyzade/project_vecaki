@@ -1,7 +1,7 @@
 # Vecāķi
 - My repository for my website about Vecāķi.
 - Information about Vecāķi:
-- ![image](https://prnt.sc/oP1EPxCN4SmF)
+- ![image](https://github.com/johnyzade/project_vecaki/blob/main/Screenshot_149.png?raw=true)
 
 ## Why Did I Choose Vecāķi?
 Vecāķi holds a special place due to its unique blend of natural beauty and cultural significance. Its proximity to Riga makes it a vibrant and accessible destination, while its local community initiatives offer opportunities for meaningful collaboration and development. This project is dedicated to showcasing and supporting Vecāķi as a model for sustainable growth and community-driven success.
